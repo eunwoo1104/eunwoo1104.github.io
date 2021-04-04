@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Hello there! Welcome to my website! 👋
+Just a normal Korean high school student who want to be programmer.  
 
-You can use the [editor on GitHub](https://github.com/eunwoo1104/eunwoo1104.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Programming Languages
+Main: Python  
+Learning: Java  
+Planning to learn: C  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## I'm active at... (all at KST)
 
-### Markdown
+### Week
+(mostly) 10:00 PM ~ 12:00 AM  
+(at online school) 7:00 AM ~ 12:00 AM  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Weekend
+(saturday) 5:00 PM ~ 12:00 AM  
+(sunday) 12:00 PM ~ 4:00 PM / 8:00 PM ~ 12:00 AM
 
-```markdown
-Syntax highlighted code block
+## Contact to me via...
+Discord: `eunwoo1104#9600`  
 
-# Header 1
-## Header 2
-### Header 3
+## Extra Info
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eunwoo1104/eunwoo1104.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![eunwoo1104's github stats](https://github-readme-stats.vercel.app/api?username=eunwoo1104&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunwoo1104&layout=compact&theme=dark)  
+![Discord](https://discord.c99.nl/widget/theme-1/288302173912170497.png)  
+![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=eunwoo1104)  
+[CodersRank Profile](https://profile.codersrank.io/user/eunwoo1104/)
