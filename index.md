@@ -1,6 +1,15 @@
 # Hello there! Welcome to my website! 👋
 Just a normal Korean high school student who want to be programmer.  
 
+## My Projects
+[discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)  
+> A simple discord slash command handler for discord.py.  
+
+[Team EG](https://github.com/Team-EG)  
+> Make EG.  
+
+~~[dico](https://github.com/eunwoo1104/dico)~~ soon™️
+
 ## Programming Languages
 Main: Python  
 Learning: Java  
