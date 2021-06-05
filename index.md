@@ -2,12 +2,12 @@
 Just a normal Korean high school student who want to be programmer.  
 
 ## My Projects
-[discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)  
-> A simple discord slash command handler for discord.py.  
+~~[discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)~~ **Now maintained by [LordOfPolls](https://github.com/LordOfPolls/discord-py-slash-command)**  
+> ~~A simple discord slash command handler for discord.py.~~  
 
 [dico](https://github.com/eunwoo1104/dico) (soon™️)  
 > Yet another Discord API wrapper for Python, aimed to follow Discord API format as much as possible but also simple and easy to use.  
-> 
+
 [Team EG](https://github.com/Team-EG)  
 > Make EG.  
 - [JBot](https://koreanbots.dev/bots/622710354836717580): (Korean Only) Multi-function guild management bot, with (partial) [web dashboard](https://jbot.teameg.tk/) support.
