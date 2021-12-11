@@ -1,32 +1,33 @@
 # Hello there! Welcome to my website! 👋
 Just a normal Korean high school student who want to be programmer.  
+Korean Descriptions: [Notion](https://eunwoo1104.notion.site/Hello-World-11be30dec9ae4780a1ff699f33775a99)
 
 ## My Projects
-~~[discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)~~ **Now maintained by [LordOfPolls](https://github.com/LordOfPolls/discord-py-slash-command)**  
+~~[discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)~~ **Now maintained by [fl0w](https://github.com/goverfl0w/discord-interactions)**  
 > ~~A simple discord slash command handler for discord.py.~~  
 
-[dico](https://github.com/eunwoo1104/dico) (soon™️)  
+[dico-api](https://github.com/dico-api)
 > Yet another Discord API wrapper for Python, aimed to follow Discord API format as much as possible but also simple and easy to use.  
 
-[Team EG](https://github.com/Team-EG)  
-> Make EG.  
-- [JBot](https://koreanbots.dev/bots/622710354836717580): (Korean Only) Multi-function guild management bot, with (partial) [web dashboard](https://jbot.teameg.tk/) support.
+[CodeNU](https://github.com/Team-EG)  
+> Always new, for you.  
+- [Laythe](https://koreanbots.dev/bots/872349051620831292): (Korean Only) Powerful discord management bot with user-friendly UI.  
 - [Cork](https://koreanbots.dev/bots/791679306123968553): (Korean Only) Discord alarm bot powered by slash command.
 
-## Programming Languages
-Main: Python  
-Basic: C/C++, Java  
-Planned: JS/TS
+## I'm working at...
+- [Koreanbots](https://github.com/koreanbots): Bot developer, bot reviewer.
 
-## I'm active at... (all at KST)
+## Stack
+### Language
+Python  
+C  
 
-### Week
-(mostly) 10:00 PM ~ 12:00 AM  
-(at online school) 7:00 AM ~ 12:00 AM  
-
-### Weekend
-(saturday) 5:00 PM ~ 12:00 AM  
-(sunday) 4:00 PM ~ 12:00 AM
+### Libs/Tools
+Qt (PyQt/PySide)  
+MariaDB  
+Git  
+GitHub  
+Docker  
 
 ## Contact to me via...
 Discord: `eunwoo1104#9600`  
